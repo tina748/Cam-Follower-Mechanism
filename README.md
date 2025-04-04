@@ -17,5 +17,5 @@ This project involves MATLAB scripts for analyzing the motion of a cam and plott
 1. Install MATLAB (if not already installed).  
 2. Clone this repository:  
    ```sh
-   git clone https://github.com/yourusername/cam-profile.git
+   git clone https://github.com/tina748/cam-profile.git
    cd cam-profile
